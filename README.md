@@ -1,6 +1,6 @@
 # Hi, I'm Sehee Min 👋
 
-🛠 Data Engineering · Backend · Full-Stack
+🛠 Data Engineering · Backend · Full-Stack  
 Building reliable AI-powered data systems — from ingestion to serving.
 
 - 🎓 Yonsei University, AI (4th year)
