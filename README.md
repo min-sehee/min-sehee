@@ -4,7 +4,7 @@
 Building reliable AI-powered data systems — from ingestion to serving.
 
 - 🎓 Yonsei University, AI (4th year)
-- 📊 Sub-team Lead, Data Engineering @ [YBIGTA](https://github.com/YBIGTA)
+- 📊 Sub-team Co-lead, Data Engineering @ [YBIGTA](https://github.com/YBIGTA)
 
 ---
 
