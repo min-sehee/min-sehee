@@ -23,13 +23,13 @@ Building reliable AI-powered data systems — from ingestion to serving.
 ## 🛠 Skills
 
 **Languages**  
-Python · Java · JavaScript / TypeScript · SQL
+Python · Java · SQL
 
 **Data Engineering**  
 Apache Flink · ClickHouse
 
 **Backend / Full-Stack**  
-FastAPI · React · REST API
+FastAPI · React
 
 **ML / Data**  
 SASRec · CLIP · OpenAI Embeddings · Pandas · PyTorch
