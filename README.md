@@ -32,7 +32,7 @@ Building reliable AI-powered data systems — from ingestion to serving.
 Python · Java · JavaScript · SQL
 
 **Data Engineering**  
-Apache Flink · ClickHouse · Docker · AWS
+Apache Flink · ClickHouse · Docker
 
 **Backend / Full-Stack**  
 FastAPI · React · Vite
