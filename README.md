@@ -23,7 +23,7 @@ Building data & AI solutions — from data processing to real-world services.
 | 2025.09 ~ 2025.11 | [Re:Space](https://github.com/min-sehee/Re_Space) | Planning · Backend · Frontend | 멀티모달 추천과 이미지 생성을 결합한 개인화 인테리어 서비스 |
 | 2026.01 ~ 2026.02 | [Real-time Data Pipeline](https://github.com/YBIGTA/27th-DE-WinterProject) | Flink · ClickHouse | Uber 파이프라인 기반 실시간 스트리밍 파이프라인 |
 | 2026.03 ~ 2026.05 | [AMIRec: Adaptive Multi-Interest Recommendation](https://github.com/sleepylee02/degent) | SASRec 모델링 | 시간에 따라 동적으로 변화하는 다중 관심사 추천 시스템 |
-| 2026.05 ~ 2026.09 | SPOTV 산학협력 프로젝트 | Modeling · Data Pipeline | 설명 가능한 야구 경기 결과 예측 확률 모델 개발 |
+| 2026.05 ~ 2026.09 | SPOTV 산학협력 프로젝트 | Modeling · Data Pipeline | 설명 가능한 야구 경기 결과 예측 확률 모델 및 데이터 파이프라인 개발 |
 
 ---
 
