@@ -1,6 +1,6 @@
 # Hi, I'm Sehee Min 👋
-🛠 Data Engineering · Backend · Full-Stack  
-Building reliable AI-powered data systems — from ingestion to serving.
+🛠 Data · AI · Software Engineering
+Building data & AI solutions — from data processing to real-world services.
 - 🎓 Yonsei University, AI (4th year)
 - 📊 Sub-team Co-lead, Data Engineering @ [YBIGTA](https://github.com/YBIGTA)
 - 💼 MLE Intern @ Goward
@@ -21,7 +21,7 @@ Building reliable AI-powered data systems — from ingestion to serving.
 |--------|-------|---------|-------------|
 | 2025.07 | [Speech2SQL](https://github.com/YBIGTA/27th-project-speech2sql) | Text2SQL | 강의·회의록을 음성 인식 기반으로 자동 구조화하여 SQL로 검색 가능한 시스템 |
 | 2025.09 ~ 2025.11 | [Re:Space](https://github.com/min-sehee/Re_Space) | Planning · Backend · Frontend | 멀티모달 추천과 이미지 생성을 결합한 개인화 인테리어 서비스 |
-| 2026.01 ~ 2026.02 | [Data Pipeline 프로젝트](https://github.com/YBIGTA/27th-DE-WinterProject) | Flink · ClickHouse | Uber 파이프라인 기반 실시간 스트리밍 파이프라인 |
+| 2026.01 ~ 2026.02 | [Real-time Data Pipeline](https://github.com/YBIGTA/27th-DE-WinterProject) | Flink · ClickHouse | Uber 파이프라인 기반 실시간 스트리밍 파이프라인 |
 | 2026.03 ~ 2026.05 | [AMIRec: Adaptive Multi-Interest Recommendation](https://github.com/sleepylee02/degent) | SASRec 모델링 | 시간에 따라 동적으로 변화하는 다중 관심사 추천 시스템 |
 | 2026.05 ~ 2026.09 | SPOTV 산학협력 프로젝트 | Modeling · Data Pipeline | 설명 가능한 야구 경기 결과 예측 확률 모델 개발 |
 
@@ -47,5 +47,5 @@ SASRec · CLIP · OpenAI Embeddings · K-means · Agglomerative Clustering · HD
 
 ## 🏆 Awards & Activities
 
-- **2025 LLM Query Hackathon** — 한국어 문법 교정(GEC) 프롬프트 엔지니어링, Specialist→Reviewer 2-Step 프롬프팅 전략 설계 (수상)
+- **2025 LLM Query Hackathon** — 한국어 문법 교정(GEC) 프롬프트 엔지니어링, Specialist→Reviewer 2-Step 프롬프팅 전략 설계 (장려)
 - **연고전 AI 해커톤 · Tech Track** — 오염 문서 방어 및 다중 문서 복합 추론 RAG 시스템 구축
